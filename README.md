@@ -2,6 +2,7 @@
 Just a simple react chat interface.
 
 Test data can be set in the DEVCHATSTACK constant, format is:
+```
 [\
   {\
     id: <int -> ID number of the message>,\
@@ -9,4 +10,5 @@ Test data can be set in the DEVCHATSTACK constant, format is:
     message: <string -> the message to be displayed>\
   },\
   ...\
-]\
+]
+```
