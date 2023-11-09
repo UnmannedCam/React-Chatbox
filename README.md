@@ -12,3 +12,7 @@ Test data can be set in the DEVCHATSTACK constant, format is:
   ...
 ]
 ```
+
+# Demo
+
+![](https://github.com/UnmannedCam/React-Chatbox/blob/main/ezgif-3-dd24e529a8.gif)
